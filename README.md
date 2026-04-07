@@ -9,7 +9,7 @@ Level_Safe is a low-cost smart water level monitoring system designed to continu
 - Wireless data transmission via ESP8266  
 - Cloud integration with ThingSpeak for visualization  
 - Instant alerts using Pushbullet when water falls below threshold  
-- Trend analysis including monthly average water levels    
+- Trend analysis including monthly average water levels users can access via web interface   
 
 ## Use Cases
 - Homes and apartments  
